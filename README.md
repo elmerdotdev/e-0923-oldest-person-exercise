@@ -1,1 +1,3 @@
-# e-0923-oldest-person-exercise
+# Instructions
+
+Test the code by running `node challenge.js`
